@@ -1,1 +1,1 @@
-# random-number.py
+The system draw random numbers.
